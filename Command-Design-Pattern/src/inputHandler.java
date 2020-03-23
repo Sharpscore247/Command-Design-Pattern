@@ -10,5 +10,7 @@ public class inputHandler {
 	
 	private HashMap<String, Command> map = new HashMap();
 	
-	public 
+	public inputHandler(Document doc) {
+	  
+	}
 }
